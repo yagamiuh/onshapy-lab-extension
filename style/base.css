@@ -1,0 +1,15 @@
+/*
+    See the JupyterLab Developer Guide for useful CSS Patterns:
+
+    https://jupyterlab.readthedocs.io/en/stable/developer/css.html
+*/
+#jp-MainLogo {
+    background-image: url("https://i.postimg.cc/qRZQ9xmV/Merthin-Arrow.png");
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-size: cover;
+}
+
+#jp-MainLogo > svg {
+    visibility: hidden;
+}

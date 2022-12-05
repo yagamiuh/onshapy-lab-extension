@@ -1,0 +1,5 @@
+{
+  "packageManager": "python",
+  "packageName": "onshape_launcher",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package onshape_launcher"
+}
