@@ -7,7 +7,7 @@
       "metadata": {},
       "outputs": [],
       "source": [
-        "from onshapy import client\n",
+        "from merthin_onshapy import client\n",
         "client = client.OnShapeClient()"
       ]
     },
